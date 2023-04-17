@@ -1,7 +1,7 @@
 Submission 3: Designing Distributed Systems
 Chapter 2 - Ambassadors
 
-Link to unlisted youtube video: 
+Link to unlisted youtube video: https://www.youtube.com/watch?v=eO9lemypQAk
 
 
 Two public link to the Concept Map (anyone on the internet can view without login): 
