@@ -5,9 +5,9 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://
+https://docs.google.com/presentation/d/1hZonWAl3BhhYa3meNfidMauKmm8BRRySbDxbrH_tQ78/edit?usp=sharing
 
-Topic Name: Image Classification Using Federated Learning
+Topic Name: Grape Disease Detection Using Federated Learning
 
 
 Group Number:
