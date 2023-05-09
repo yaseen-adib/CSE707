@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/tw3iaLQz58w
 
 Paper title:
-Image Classification Using Federated Learning 
+Grape Disease Detection Using Federated Learning
 
 Paper presentation (anyone can view without login):
 
