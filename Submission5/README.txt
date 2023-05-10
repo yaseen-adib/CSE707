@@ -7,8 +7,6 @@ Unlisted YouTube video:
 Paper title:
 Grape Disease Detection Using Federated Learning
 
-Paper presentation (anyone can view without login):
-
 
 Journal Name:  Elsevier Journal of Parallel and Distributed Computing
 
