@@ -5,9 +5,9 @@ https://www.overleaf.com/project/645b211fcb141bafeafc9bfc
 Paper title:
 Grape Disease Detection Using Federated Learning
 
-Submitted to: 
+Submitted to: The 20th Pacific Rim International Conference on Artificial Intelligence Jakarta, Indonesia
 
-Conference URL: 
+Conference URL: https://www.pricai.org/2023/
 
 
 
