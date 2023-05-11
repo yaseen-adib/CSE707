@@ -9,10 +9,9 @@ Grape Disease Detection Using Federated Learning
 
 Paper presentation (anyone can view without login):
 
+Conference Name: The 20th Pacific Rim International Conference on Artificial Intelligence Jakarta, Indonesia
 
-Journal Name:  Elsevier Journal of Parallel and Distributed Computing
-
-Journal URL: https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing
+Conference URL: https://www.pricai.org/2023/
 
 
 Group Number:8
